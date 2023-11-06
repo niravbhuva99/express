@@ -1,0 +1,16 @@
+body {
+  background-color: azure;
+}
+h1 {
+  padding: 15px;
+}
+.post h3 {
+  color: maroon;
+}
+.post {
+  background-color: rgb(182, 219, 250);
+  padding: 10px;
+  font-style: italic;
+  border: 2px solid black;
+  margin-bottom: 5px;
+}
